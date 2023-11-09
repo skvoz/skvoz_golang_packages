@@ -1,4 +1,4 @@
-module skvoz_golang_packages
+module github.com/skvoz/skvoz_golang_packages
 
 go 1.20
 
